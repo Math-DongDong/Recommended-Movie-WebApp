@@ -17,4 +17,4 @@ apps_script_url = "https://script.google.com/macros/s/AKfycbzEamEHydpiKQNUuZ83pJ
 #################################################################################################################################
 # 아이프레임 생성 - st.components.v1.iframe을 사용하여 웹 앱을 아이프레임으로 임베드
 #================================================================================================================================
-components.iframe(apps_script_url, height=750, scrolling=True)
+components.iframe(apps_script_url)
