@@ -5,7 +5,7 @@ import streamlit.components.v1 as components
 # 웹 앱 환경설정
 #================================================================================================================================
 st.set_page_config(
-    page_title="영화 추천 프로그램",
+    page_title="영화 추천 웹앱",
     layout="wide"
 )
 
