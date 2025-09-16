@@ -28,4 +28,4 @@ TAB_INFOS = [
 tabs = st.tabs([name for name, _ in TAB_INFOS])
 for tab, (_, url) in zip(tabs, TAB_INFOS):
     with tab:
-        components.iframe(url, width=None, height=1800, scrolling=True)
+        components.iframe(url, width=None, height=2500, scrolling=True)
