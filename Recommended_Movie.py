@@ -16,7 +16,7 @@ st.set_page_config(
 # 탭 이름과 각 탭에 임베드할 URL 리스트
 TAB_INFOS = [
     ("버전A", "https://script.google.com/macros/s/AKfycbzEamEHydpiKQNUuZ83pJR3nTibhGNwDMgpjyDqE4R3NtcRCOmpzxEJPARnGzi1DuE1/exec"),
-    ("버전B", "https://script.google.com/macros/s/AKfycbwXI86ayoglhl5cBJ1su9A0KymXJuHmbA0prN2LFVF9H0qJn32haszMFf5za18wgooF/exec"),
+    ("버전B", "https://script.google.com/macros/s/AKfycbzM1pcZWQJi3WF8nm9mMkPO8iAQpJ1FIQ4_Gp1CaCzGddUcCaQu0PQLOJqYCfk3pTv1/exec"),
     ("버전C", "https://script.google.com/macros/s/AKfycbznmGFIjVCNcg8p87Tx1ocq0fvY1KlQ7MkmUqoe0jt6hkRkVJxH20knAb2O00vezFRn3g/exec"),
 ]
 
