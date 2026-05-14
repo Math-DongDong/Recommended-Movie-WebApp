@@ -15,6 +15,7 @@ def main_page():
 pages = {
     "웹 아티클": [
         st.Page("./Article/Recommended_Movie.py", title="영화추천 웹앱"),
+        st.Page("./Article/Form.py", title="봄꽃 가요제 신청서"),
     ],
     "메인페이지": [
         st.Page(main_page, title="마진",default=True),
